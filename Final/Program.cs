@@ -11,3 +11,4 @@ void Count(string[] array)
     }
 
 }
+Count(Array);
